@@ -1,0 +1,10 @@
+{
+  "name": "OwnselfReno — 3D Renovation AI",
+  "install": "npm ci",
+  "terminals": [
+    {
+      "name": "next-dev",
+      "command": "npm run dev"
+    }
+  ]
+}
