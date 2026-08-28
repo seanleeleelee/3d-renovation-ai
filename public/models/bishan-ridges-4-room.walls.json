@@ -1,0 +1,712 @@
+{
+  "wallCount": 34,
+  "walls": [
+    {
+      "id": "skp-wall-1",
+      "roomIds": [
+        "room-unit"
+      ],
+      "start": [
+        12.45,
+        0.0
+      ],
+      "end": [
+        12.45,
+        4.8
+      ],
+      "height": 2.6,
+      "thickness": 0.08,
+      "material": {
+        "color": "#f3f0ea",
+        "roughness": 0.9
+      }
+    },
+    {
+      "id": "skp-wall-2",
+      "roomIds": [
+        "room-unit"
+      ],
+      "start": [
+        11.35,
+        4.8
+      ],
+      "end": [
+        12.45,
+        4.8
+      ],
+      "height": 2.6,
+      "thickness": 0.08,
+      "material": {
+        "color": "#f3f0ea",
+        "roughness": 0.9
+      }
+    },
+    {
+      "id": "skp-wall-3",
+      "roomIds": [
+        "room-unit"
+      ],
+      "start": [
+        11.35,
+        4.8
+      ],
+      "end": [
+        11.35,
+        6.35
+      ],
+      "height": 2.6,
+      "thickness": 0.08,
+      "material": {
+        "color": "#f3f0ea",
+        "roughness": 0.9
+      }
+    },
+    {
+      "id": "skp-wall-4",
+      "roomIds": [
+        "room-unit"
+      ],
+      "start": [
+        3.6,
+        8.95
+      ],
+      "end": [
+        9.1,
+        8.95
+      ],
+      "height": 2.6,
+      "thickness": 0.08,
+      "material": {
+        "color": "#f3f0ea",
+        "roughness": 0.9
+      }
+    },
+    {
+      "id": "skp-wall-5",
+      "roomIds": [
+        "room-unit"
+      ],
+      "start": [
+        3.75,
+        7.6
+      ],
+      "end": [
+        3.75,
+        8.7
+      ],
+      "height": 2.6,
+      "thickness": 0.08,
+      "material": {
+        "color": "#f3f0ea",
+        "roughness": 0.9
+      }
+    },
+    {
+      "id": "skp-wall-6",
+      "roomIds": [
+        "room-unit"
+      ],
+      "start": [
+        0.0,
+        7.6
+      ],
+      "end": [
+        2.25,
+        7.6
+      ],
+      "height": 2.13,
+      "thickness": 0.08,
+      "material": {
+        "color": "#f3f0ea",
+        "roughness": 0.9
+      }
+    },
+    {
+      "id": "skp-wall-7",
+      "roomIds": [
+        "room-unit"
+      ],
+      "start": [
+        0.0,
+        0.8
+      ],
+      "end": [
+        0.0,
+        7.6
+      ],
+      "height": 2.6,
+      "thickness": 0.08,
+      "material": {
+        "color": "#f3f0ea",
+        "roughness": 0.9
+      }
+    },
+    {
+      "id": "skp-wall-8",
+      "roomIds": [
+        "room-unit"
+      ],
+      "start": [
+        0.3,
+        0.8
+      ],
+      "end": [
+        0.3,
+        4.8
+      ],
+      "height": 2.6,
+      "thickness": 0.08,
+      "material": {
+        "color": "#f3f0ea",
+        "roughness": 0.9
+      }
+    },
+    {
+      "id": "skp-wall-9",
+      "roomIds": [
+        "room-unit"
+      ],
+      "start": [
+        3.6,
+        0.0
+      ],
+      "end": [
+        3.6,
+        3.45
+      ],
+      "height": 2.6,
+      "thickness": 0.08,
+      "material": {
+        "color": "#f3f0ea",
+        "roughness": 0.9
+      }
+    },
+    {
+      "id": "skp-wall-10",
+      "roomIds": [
+        "room-unit"
+      ],
+      "start": [
+        6.45,
+        0.15
+      ],
+      "end": [
+        6.45,
+        3.35
+      ],
+      "height": 2.6,
+      "thickness": 0.08,
+      "material": {
+        "color": "#f3f0ea",
+        "roughness": 0.9
+      }
+    },
+    {
+      "id": "skp-wall-11",
+      "roomIds": [
+        "room-unit"
+      ],
+      "start": [
+        3.9,
+        0.15
+      ],
+      "end": [
+        3.9,
+        2.4
+      ],
+      "height": 2.6,
+      "thickness": 0.08,
+      "material": {
+        "color": "#f3f0ea",
+        "roughness": 0.9
+      }
+    },
+    {
+      "id": "skp-wall-12",
+      "roomIds": [
+        "room-unit"
+      ],
+      "start": [
+        3.6,
+        3.45
+      ],
+      "end": [
+        5.4,
+        3.45
+      ],
+      "height": 2.27,
+      "thickness": 0.08,
+      "material": {
+        "color": "#f3f0ea",
+        "roughness": 0.9
+      }
+    },
+    {
+      "id": "skp-wall-13",
+      "roomIds": [
+        "room-unit"
+      ],
+      "start": [
+        0.3,
+        5.1
+      ],
+      "end": [
+        1.5,
+        5.1
+      ],
+      "height": 2.6,
+      "thickness": 0.08,
+      "material": {
+        "color": "#f3f0ea",
+        "roughness": 0.9
+      }
+    },
+    {
+      "id": "skp-wall-14",
+      "roomIds": [
+        "room-unit"
+      ],
+      "start": [
+        0.3,
+        5.1
+      ],
+      "end": [
+        0.3,
+        7.35
+      ],
+      "height": 2.6,
+      "thickness": 0.08,
+      "material": {
+        "color": "#f3f0ea",
+        "roughness": 0.9
+      }
+    },
+    {
+      "id": "skp-wall-15",
+      "roomIds": [
+        "room-unit"
+      ],
+      "start": [
+        0.3,
+        7.35
+      ],
+      "end": [
+        1.5,
+        7.35
+      ],
+      "height": 2.6,
+      "thickness": 0.08,
+      "material": {
+        "color": "#f3f0ea",
+        "roughness": 0.9
+      }
+    },
+    {
+      "id": "skp-wall-16",
+      "roomIds": [
+        "room-unit"
+      ],
+      "start": [
+        6.9,
+        4.6
+      ],
+      "end": [
+        6.9,
+        6.25
+      ],
+      "height": 2.6,
+      "thickness": 0.08,
+      "material": {
+        "color": "#f3f0ea",
+        "roughness": 0.9
+      }
+    },
+    {
+      "id": "skp-wall-17",
+      "roomIds": [
+        "room-unit"
+      ],
+      "start": [
+        8.85,
+        4.6
+      ],
+      "end": [
+        8.85,
+        6.25
+      ],
+      "height": 2.6,
+      "thickness": 0.08,
+      "material": {
+        "color": "#f3f0ea",
+        "roughness": 0.9
+      }
+    },
+    {
+      "id": "skp-wall-18",
+      "roomIds": [
+        "room-unit"
+      ],
+      "start": [
+        7.95,
+        4.5
+      ],
+      "end": [
+        9.35,
+        4.5
+      ],
+      "height": 2.13,
+      "thickness": 0.08,
+      "material": {
+        "color": "#f3f0ea",
+        "roughness": 0.9
+      }
+    },
+    {
+      "id": "skp-wall-19",
+      "roomIds": [
+        "room-unit"
+      ],
+      "start": [
+        11.05,
+        4.6
+      ],
+      "end": [
+        11.05,
+        6.25
+      ],
+      "height": 2.6,
+      "thickness": 0.08,
+      "material": {
+        "color": "#f3f0ea",
+        "roughness": 0.9
+      }
+    },
+    {
+      "id": "skp-wall-20",
+      "roomIds": [
+        "room-unit"
+      ],
+      "start": [
+        10.25,
+        4.5
+      ],
+      "end": [
+        12.15,
+        4.5
+      ],
+      "height": 2.13,
+      "thickness": 0.08,
+      "material": {
+        "color": "#f3f0ea",
+        "roughness": 0.9
+      }
+    },
+    {
+      "id": "skp-wall-21",
+      "roomIds": [
+        "room-unit"
+      ],
+      "start": [
+        7.6,
+        3.35
+      ],
+      "end": [
+        9.4,
+        3.35
+      ],
+      "height": 2.6,
+      "thickness": 0.08,
+      "material": {
+        "color": "#f3f0ea",
+        "roughness": 0.9
+      }
+    },
+    {
+      "id": "skp-wall-22",
+      "roomIds": [
+        "room-unit"
+      ],
+      "start": [
+        9.4,
+        0.15
+      ],
+      "end": [
+        9.4,
+        3.45
+      ],
+      "height": 2.6,
+      "thickness": 0.08,
+      "material": {
+        "color": "#f3f0ea",
+        "roughness": 0.9
+      }
+    },
+    {
+      "id": "skp-wall-23",
+      "roomIds": [
+        "room-unit"
+      ],
+      "start": [
+        9.1,
+        0.15
+      ],
+      "end": [
+        9.1,
+        2.4
+      ],
+      "height": 2.6,
+      "thickness": 0.08,
+      "material": {
+        "color": "#f3f0ea",
+        "roughness": 0.9
+      }
+    },
+    {
+      "id": "skp-wall-24",
+      "roomIds": [
+        "room-unit"
+      ],
+      "start": [
+        0.3,
+        4.8
+      ],
+      "end": [
+        1.8,
+        4.8
+      ],
+      "height": 2.6,
+      "thickness": 0.08,
+      "material": {
+        "color": "#f3f0ea",
+        "roughness": 0.9
+      }
+    },
+    {
+      "id": "skp-wall-25",
+      "roomIds": [
+        "room-unit"
+      ],
+      "start": [
+        1.8,
+        4.8
+      ],
+      "end": [
+        1.8,
+        7.3
+      ],
+      "height": 2.6,
+      "thickness": 0.08,
+      "material": {
+        "color": "#f3f0ea",
+        "roughness": 0.9
+      }
+    },
+    {
+      "id": "skp-wall-26",
+      "roomIds": [
+        "room-unit"
+      ],
+      "start": [
+        3.6,
+        6.05
+      ],
+      "end": [
+        3.6,
+        7.3
+      ],
+      "height": 2.27,
+      "thickness": 0.08,
+      "material": {
+        "color": "#f3f0ea",
+        "roughness": 0.9
+      }
+    },
+    {
+      "id": "skp-wall-27",
+      "roomIds": [
+        "room-unit"
+      ],
+      "start": [
+        3.9,
+        6.05
+      ],
+      "end": [
+        3.9,
+        8.7
+      ],
+      "height": 2.6,
+      "thickness": 0.08,
+      "material": {
+        "color": "#f3f0ea",
+        "roughness": 0.9
+      }
+    },
+    {
+      "id": "skp-wall-28",
+      "roomIds": [
+        "room-unit"
+      ],
+      "start": [
+        6.45,
+        4.5
+      ],
+      "end": [
+        6.45,
+        6.35
+      ],
+      "height": 2.6,
+      "thickness": 0.08,
+      "material": {
+        "color": "#f3f0ea",
+        "roughness": 0.9
+      }
+    },
+    {
+      "id": "skp-wall-29",
+      "roomIds": [
+        "room-unit"
+      ],
+      "start": [
+        12.15,
+        0.15
+      ],
+      "end": [
+        12.15,
+        4.5
+      ],
+      "height": 2.6,
+      "thickness": 0.08,
+      "material": {
+        "color": "#f3f0ea",
+        "roughness": 0.9
+      }
+    },
+    {
+      "id": "skp-wall-30",
+      "roomIds": [
+        "room-unit"
+      ],
+      "start": [
+        1.5,
+        6.4
+      ],
+      "end": [
+        1.5,
+        7.35
+      ],
+      "height": 2.13,
+      "thickness": 0.08,
+      "material": {
+        "color": "#f3f0ea",
+        "roughness": 0.9
+      }
+    },
+    {
+      "id": "skp-wall-31",
+      "roomIds": [
+        "room-unit"
+      ],
+      "start": [
+        2.5,
+        7.5
+      ],
+      "end": [
+        3.45,
+        7.5
+      ],
+      "height": 2.09,
+      "thickness": 0.08,
+      "material": {
+        "color": "#f3f0ea",
+        "roughness": 0.9
+      }
+    },
+    {
+      "id": "skp-wall-32",
+      "roomIds": [
+        "room-unit"
+      ],
+      "start": [
+        8.3,
+        3.55
+      ],
+      "end": [
+        8.3,
+        4.2
+      ],
+      "height": 2.09,
+      "thickness": 0.08,
+      "material": {
+        "color": "#f3f0ea",
+        "roughness": 0.9
+      }
+    },
+    {
+      "id": "skp-wall-33",
+      "roomIds": [
+        "room-unit"
+      ],
+      "start": [
+        5.65,
+        3.35
+      ],
+      "end": [
+        6.3,
+        3.35
+      ],
+      "height": 2.09,
+      "thickness": 0.08,
+      "material": {
+        "color": "#f3f0ea",
+        "roughness": 0.9
+      }
+    },
+    {
+      "id": "skp-wall-34",
+      "roomIds": [
+        "room-unit"
+      ],
+      "start": [
+        6.7,
+        3.35
+      ],
+      "end": [
+        7.35,
+        3.35
+      ],
+      "height": 2.09,
+      "thickness": 0.08,
+      "material": {
+        "color": "#f3f0ea",
+        "roughness": 0.9
+      }
+    }
+  ],
+  "room": {
+    "id": "room-unit",
+    "name": "Unit",
+    "polygon": [
+      [
+        0.0,
+        0.0
+      ],
+      [
+        12.425685546875,
+        0.0
+      ],
+      [
+        12.425685546875,
+        8.9711474609375
+      ],
+      [
+        0.0,
+        8.9711474609375
+      ]
+    ],
+    "ceilingHeight": 2.7,
+    "floorMaterial": {
+      "color": "#cfc7b8",
+      "roughness": 0.75
+    }
+  }
+}
